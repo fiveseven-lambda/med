@@ -1,1 +1,2 @@
-[単語集](./terms)
+- [代謝の話](./metabolism)
+- [単語集](./terms)
